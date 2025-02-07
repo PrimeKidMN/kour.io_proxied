@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.11"
+  }
+}
